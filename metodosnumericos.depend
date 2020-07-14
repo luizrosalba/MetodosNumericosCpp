@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1514140574 source:c:\metodos numericos\main.cpp
+	<iostream>
+
+1348607454 source:c:\metodos numericos\elimgaussantigo.cpp
+	<ElimGauss.h>
+
+1347492850 source:c:\metodos numericos\bissecao.cpp
+	"metodosnum.h"
+
+1594763283 c:\metodos numericos\metodosnum.h
+	<iostream>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<complex>
+
+1347579477 source:c:\metodos numericos\derivadas.cpp
+	"metodosnum.h"
+
+1348607454 source:c:\metodos numericos\euler.cpp
+	"metodosnum.h"
+
+1348607454 source:c:\metodos numericos\fatoracaolu.cpp
+	"metodosnum.h"
+
+1347494207 source:c:\metodos numericos\fft.cpp
+	"metodosnum.h"
+
+1348625162 source:c:\metodos numericos\funcao.cpp
+	"metodosnum.h"
+
+1348608897 source:c:\metodos numericos\gauss_seidel.cpp
+	"metodosnum.h"
+

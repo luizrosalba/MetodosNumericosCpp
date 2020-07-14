@@ -1,4 +1,4 @@
-/
+//
 // Método de Gauss-Seidel
 // Resolve sistemas A * B = C
 // Criterio de parada :
@@ -58,7 +58,7 @@ double GaussSeidel (double**_A,const double*_b,const double*_x,const int &_taman
             else
             {
 
-                   
+
              //cout <<"novox[n] : " << novox[0] << " "<<novox[1] << endl ;
             // cout << "Convergencia : " << AlteraPouco2(novox,x,n) << endl ;
              cout << endl ;
@@ -77,7 +77,7 @@ double GaussSeidel (double**_A,const double*_b,const double*_x,const int &_taman
 
     }
     cout << "Não houve convergecia" << endl ;
-   
+
     return 1;
 }
 
